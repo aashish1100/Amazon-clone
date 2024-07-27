@@ -1,0 +1,7 @@
+div{
+    height: 100vh;
+    background-color: black;
+    background-image: url(photo.jpg);
+    background-size: cover;
+    background-size: 1
+}
